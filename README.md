@@ -17,7 +17,7 @@ For the rest of the network I used the normal decoder structure:
  - Linear layer
  
 ## How to run the code
-To run the code, I recommend downloading the notebook and the weights of all models. Place the weights in a folder named "weights." After that, simply press "Run All" to see the results.
+You can run the code simply by pressing the "Run All" button.
 
 
 
